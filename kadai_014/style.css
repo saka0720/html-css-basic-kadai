@@ -29,6 +29,6 @@ body{
 /*#basic {
    font-weight: normal;
   }*/
-.decoration5{
+#basic-grandchild >P{
    font-weight: bold;
  }
